@@ -161,7 +161,7 @@ Why does this exist? Because it's the one part that's hard to fake. Code can be 
    - `EXPLANATION.md` with every answer filled in
    - `requirements.txt`
    - A brief `README.md` explaining how to run it (we will actually try to run it)
-3. Share the link using [**the submission form - add link here**]
+3. Share the link using submission form that will be UPDATED here shortly.
 
 **Deployment bonus:** If you deploy your app anywhere (Streamlit Cloud, Render, HuggingFace Spaces, Vercel - anything) and drop a live link in your README, that goes in your favour. Not required, but it shows you didn't stop at "it works on my machine."
 
@@ -198,7 +198,7 @@ A Logistic Regression with a sharp EXPLANATION.md will score higher than a CatBo
 
 **Deployment (optional)**
 - [Streamlit Community Cloud](https://streamlit.io/cloud)
-- [Render free tier](https://render.com)
+- [Vercel free tier](https://vercel.com)
 - [HuggingFace Spaces](https://huggingface.co/spaces)
 
 ---
